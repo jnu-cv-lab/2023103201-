@@ -17,4 +17,4 @@
 - skeleton_lift.mp4       # 正手挑球（识别效果最好类别）骨架标注对比视频
 - skeleton_net.mp4        # 正手网前小球（识别效果最差类别）骨架标注对比视频
 - lab11实验报告.docx      # 完整Word实验报告文档
-- README.md               # 项目说明文档（当前正在编辑的文件）
+- README.md               # 项目说明文档
